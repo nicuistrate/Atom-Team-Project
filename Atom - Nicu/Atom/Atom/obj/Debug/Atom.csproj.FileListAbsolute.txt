@@ -1,0 +1,112 @@
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Properties.Resources.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.GenerateResource.cache
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CoreCompileInputs.cache
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe.config
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\Atom.pdb
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.dll
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.xml
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CopyComplete
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.exe
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.pdb
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Form1.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.RegisterForm.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.LoginError.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MainForm.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Migrations.PharmacyData.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Algocalmin.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Coldrex.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Paracetamol.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Vitamine.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedNotFound.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedicamentInsuficient.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ProductBought.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.CosCumparaturi.resources
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csprojAssemblyReference.cache
+C:\Users\kissf\OneDrive\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ComandaFinalizata.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe.config
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\Atom.pdb
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.dll
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.xml
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csprojAssemblyReference.cache
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Algocalmin.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Coldrex.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ComandaFinalizata.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.CosCumparaturi.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Form1.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.LoginError.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MainForm.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedicamentInsuficient.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedNotFound.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Migrations.PharmacyData.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Paracetamol.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ProductBought.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Properties.Resources.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.RegisterForm.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Vitamine.resources
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.GenerateResource.cache
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CopyComplete
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.exe
+C:\Users\Nicu\Downloads\Atom - Nicu\Atom\Atom\obj\Debug\Atom.pdb
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe.config
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\Atom.pdb
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.dll
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.xml
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csprojAssemblyReference.cache
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Algocalmin.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Coldrex.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ComandaFinalizata.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.CosCumparaturi.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Form1.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.LoginError.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MainForm.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedicamentInsuficient.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedNotFound.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Migrations.PharmacyData.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Paracetamol.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ProductBought.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Properties.Resources.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.RegisterForm.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Vitamine.resources
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.GenerateResource.cache
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CopyComplete
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.exe
+C:\Users\Nicu\Desktop\Atom - Nicu\Atom\Atom\obj\Debug\Atom.pdb
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe.config
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\Atom.exe
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\Atom.pdb
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.dll
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.xml
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csprojAssemblyReference.cache
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Algocalmin.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Coldrex.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ComandaFinalizata.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.CosCumparaturi.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Form1.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.LoginError.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MainForm.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedicamentInsuficient.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.MedNotFound.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Migrations.PharmacyData.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Paracetamol.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.ProductBought.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Properties.Resources.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.RegisterForm.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.Vitamine.resources
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.GenerateResource.cache
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.csproj.CopyComplete
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.exe
+C:\Users\Nicu\Desktop\Faculta\AN 3 Sem 2\II\Atom - Nicu\Atom\Atom\obj\Debug\Atom.pdb

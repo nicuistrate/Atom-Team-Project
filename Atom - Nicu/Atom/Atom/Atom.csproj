@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04C27717-4538-432A-95C2-9F29CC832BD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Atom</RootNamespace>
+    <AssemblyName>Atom</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Algocalmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Algocalmin.Designer.cs">
+      <DependentUpon>Algocalmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coldrex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coldrex.Designer.cs">
+      <DependentUpon>Coldrex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComandaFinalizata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComandaFinalizata.Designer.cs">
+      <DependentUpon>ComandaFinalizata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CosCumparaturi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CosCumparaturi.Designer.cs">
+      <DependentUpon>CosCumparaturi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Data.cs" />
+    <Compile Include="LoginError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginError.Designer.cs">
+      <DependentUpon>LoginError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicament.cs" />
+    <Compile Include="MedicamentInsuficient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MedicamentInsuficient.Designer.cs">
+      <DependentUpon>MedicamentInsuficient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MedNotFound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MedNotFound.Designer.cs">
+      <DependentUpon>MedNotFound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201905312223461_PharmacyData.cs" />
+    <Compile Include="Migrations\201905312223461_PharmacyData.Designer.cs">
+      <DependentUpon>201905312223461_PharmacyData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Paracetamol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paracetamol.Designer.cs">
+      <DependentUpon>Paracetamol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pharmacy.cs" />
+    <Compile Include="PharmacyData.cs" />
+    <Compile Include="ProductBought.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductBought.Designer.cs">
+      <DependentUpon>ProductBought.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Prospect.cs" />
+    <Compile Include="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TbUser.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vitamine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vitamine.Designer.cs">
+      <DependentUpon>Vitamine.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Algocalmin.resx">
+      <DependentUpon>Algocalmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coldrex.resx">
+      <DependentUpon>Coldrex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComandaFinalizata.resx">
+      <DependentUpon>ComandaFinalizata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CosCumparaturi.resx">
+      <DependentUpon>CosCumparaturi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginError.resx">
+      <DependentUpon>LoginError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedicamentInsuficient.resx">
+      <DependentUpon>MedicamentInsuficient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MedNotFound.resx">
+      <DependentUpon>MedNotFound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201905312223461_PharmacyData.resx">
+      <DependentUpon>201905312223461_PharmacyData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paracetamol.resx">
+      <DependentUpon>Paracetamol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductBought.resx">
+      <DependentUpon>ProductBought.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vitamine.resx">
+      <DependentUpon>Vitamine.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\blurred-background-1.jpg" />
+    <None Include="Resources\Remedium.JPG" />
+    <None Include="Resources\HelpNet.JPG" />
+    <None Include="Resources\Catena.JPG" />
+    <None Include="Resources\Dona.JPG" />
+    <Content Include="Resources\ew.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
